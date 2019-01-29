@@ -1,3 +1,6 @@
+[![](https://images.microbadger.com/badges/version/ksator/saltstack_minion_junos_modules_docker.svg)](https://microbadger.com/images/ksator/saltstack_minion_junos_modules_docker "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/ksator/saltstack_minion_junos_modules_docker.svg)](https://microbadger.com/images/ksator/saltstack_minion_junos_modules_docker "Get your own image badge on microbadger.com")  
+
 # About this repository 
 This repository has a Dockerfile for SaltStack minion and the dependencies for junos modules. 
 At each git push, the Docker Hub pull down this repository and build a docker image using the Dockerfile and push it onto the Docker Hub.
